@@ -1,5 +1,7 @@
 # calender
 
+基于vue开发的日历组件，适用于酒店选择入住离店时间
+
 > A Vue.js project
 
 ## Build Setup
